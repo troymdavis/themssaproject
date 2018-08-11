@@ -1,7 +1,10 @@
 <HTML> 
   <Body> 
+  <header>
+  About Us
+  </header>
     <P>
-    This is the begining of the website!
+    This is the beginning of the website! 
     <\p> 
    </Body>
 </HTML>
