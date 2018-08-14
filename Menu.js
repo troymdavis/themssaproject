@@ -17,7 +17,7 @@ close.addEventListener("click", function () {
 
 function navToggle() {
     //to close
-    if (nav.style.height <= "275px") {
+    if (nav.style.height <= "500 px") {
         nav.style.height = "50px";
         main.style.marginTop = "50px";
 
@@ -31,8 +31,8 @@ function navToggle() {
     }
     //to open
     else if (nav.style.height <= "50px") {
-        nav.style.height = "275px";
-        main.style.marginTop = "275px";
+        nav.style.height = "500px";
+        main.style.marginTop = "500px";
         var i = 0;
         for (i = 0; i < menu.length; i++) {
             menu[i].style.opacity = "1.0";
