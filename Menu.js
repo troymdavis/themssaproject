@@ -17,7 +17,7 @@ close.addEventListener("click", function () {
 
 function navToggle() {
     //to close
-    if (nav.style.height <= "500 px") {
+    if (nav.style.height <= "500px") {
         nav.style.height = "50px";
         main.style.marginTop = "50px";
 
