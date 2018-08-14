@@ -107,7 +107,7 @@
     z-index: 100;
     color: #fff;
     cursor: pointer;
-    trainsition: background-position .3s;
+    transition: background-position .3s;
 }
 
 #main {
