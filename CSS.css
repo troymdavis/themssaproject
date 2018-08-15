@@ -7,11 +7,13 @@ text-decoration: none;
 font-family:Calibri;
 text-align:center;
 }
-a:link{color:green}
+
+a.class1{color:green;}
 
 body {
     
 }
+
 
 header {
     background-image: url("https://www.getsready.com/wp-content/uploads/2016/05/skyline-picture-of-washington-dc.jpg");
