@@ -1,7 +1,18 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\html",
+    "\\html\\Camp Lejeune",
+    "\\html\\CampPendleton",
+    "\\html\\Fort Benning",
+    "\\html\\Fort Bragg",
+    "\\html\\Fort Campbell",
+    "\\html\\Fort Carson",
+    "\\html\\Quantico",
+    "\\html\\Quantico\\Cohort2",
+    "\\html\\Quantico\\Cohort2\\Aaron Kasprak",
+    "\\html\\Quantico\\Cohort2\\Steven Shafer"
   ],
-  "SelectedNode": "\\Menu.js",
+  "SelectedNode": "\\html\\CampPendleton\\Camp Pendleton.html",
   "PreviewInSolutionExplorer": false
 }
