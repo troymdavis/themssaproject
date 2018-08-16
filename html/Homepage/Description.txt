@@ -1,0 +1,10 @@
+Welcome! This website is being designed with the intention of providing a forum for MSSA students to collaborate. Are
+you experiencing difficulty in developing an idea for a project? Are you curious to know what other students are working
+on throughout the other cohorts? Are you working on a project, but you are running into issues that perhaps another student
+would be able to provide assistance? This website will provide solutions to all of those issues. At the very least,
+students contributing their projects to this website will learn HTML5/CSS and familiarity with GitHub. You will also
+be able to pull up any projects you have completed or coninuing to develop at any moment. This can prove hugely beneficial
+if you are in the middle of an interview!
+
+We are looking to collaborate with a few students to intially launch this website. Ideally, we would like to collaborate
+with people who are interested in programming, have a few projects underway, and 
